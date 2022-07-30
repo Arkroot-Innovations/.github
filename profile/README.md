@@ -6,7 +6,7 @@ We collaborate with the biggest businesses to develop and scale effective Flutte
 
 ### 💻 Visit [our website][arkroot_website]
 
-### 📚 Learn more on [our blog][]
+### 📚 Learn more on our blogs
 - [How to Mock dio in flutter][mock_dio_in_flutter]
 
 [mock_dio_in_flutter]:https://medium.com/@shan-shaji/mock-dio-in-flutter-f7f97082135f
