@@ -11,4 +11,4 @@ We collaborate with the biggest businesses to develop and scale effective Flutte
 
 [mock_dio_in_flutter]:https://medium.com/@shan-shaji/mock-dio-in-flutter-f7f97082135f
 [arkroot_website]:http://www.arkroot.com/
-[arkroot_cover]:https://raw.githubusercontent.com/Arkroot-Innovations/.github/main/profile/images/cover.png
+[arkroot_cover]:https://raw.githubusercontent.com/Arkroot-Innovations/.github/main/profile/images/arkroot-cover.png
