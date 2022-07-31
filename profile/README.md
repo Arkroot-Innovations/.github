@@ -2,7 +2,7 @@
 
 ![Akroot Cover][arkroot_cover]
 
-We collaborate with the biggest businesses to develop and scale effective Flutter apps🚀.Our talented team has created numerous projects at the government and international levels and is well-known in the national media.
+We collaborate with the biggest businesses to develop and scale effective Flutter apps🚀. Our talented team has created numerous projects at the government and international levels and is well-known in the national media.
 
 ### 💻 Visit [our website][arkroot_website]
 
