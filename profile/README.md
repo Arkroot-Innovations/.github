@@ -2,7 +2,7 @@
 
 ![Akroot Cover][arkroot_cover]
 
-We collaborate with the biggest businesses to develop and scale effective Flutter apps🚀. Our talented team has created numerous projects at the government and international levels and is well-known in the national media.
+Arkroot is a young and innovative software company that provides AI, Mobile App, and Web development services. We are committed to providing our clients with the best possible service and support, and we strive for excellence in everything we do.
 
 ### 💻 Visit [our website][arkroot_website]
 
